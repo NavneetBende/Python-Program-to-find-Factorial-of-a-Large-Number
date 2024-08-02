@@ -1,0 +1,7 @@
+from math import factorial
+
+n = 5
+
+ans = factorial(n)
+
+print(ans)
